@@ -9,9 +9,9 @@
 }
 
 body {
-  background-color: #E5E5E5;
   width: 1600px;
   height: 4350px;
+  background-color: #ececec;
   max-width: 1117px;
   margin: auto;
   font-family: "Avenir", Helvetica, sans-serif;
@@ -23,7 +23,7 @@ header img {
 }
 header button {
   float: right;
-  margin-top: -50px;
+  margin-top: -40px;
   padding: 15px 25px;
   font-size: 16px;
   line-height: 25.6px;
@@ -42,7 +42,7 @@ header button img {
 header nav {
   float: right;
   margin-right: 52%;
-  margin-top: -50px;
+  margin-top: -60px;
 }
 header li {
   display: inline;
@@ -79,12 +79,14 @@ header li:first-child {
   border: 0px;
   padding: 16px 37px 15px;
   font-weight: 600;
+  font-size: 18px;
   line-height: 28.8px;
+  margin-top: 40px;
 }
 .first_section img {
   width: 885px;
   height: 468px;
-  margin-top: -350px;
+  margin-top: -400px;
   float: right;
   margin-right: -120px;
 }
@@ -141,7 +143,7 @@ header li:first-child {
 }
 .third_section .first_section_feature .search_data img {
   float: left;
-  margin-top: 50px;
+  margin-top: 70px;
   margin-right: -120px;
 }
 .third_section .first_section_feature .search_data div {
@@ -158,6 +160,7 @@ header li:first-child {
   line-height: 31.2px;
   font-weight: 400;
   margin-left: 150px;
+  margin-top: 55px;
 }
 .third_section .first_section_feature .search_data div p {
   font-size: 16px;
@@ -168,6 +171,7 @@ header li:first-child {
   font-weight: 800;
   letter-spacing: 0.5%;
   float: left;
+  margin-top: 10px;
 }
 .third_section .first_section_feature .search_data div p:last-child img {
   float: right;
@@ -180,7 +184,7 @@ header li:first-child {
 }
 .third_section .first_section_feature .hours_access img {
   float: left;
-  margin-top: 50px;
+  margin-top: 70px;
   margin-right: -120px;
 }
 .third_section .first_section_feature .hours_access div {
@@ -197,6 +201,7 @@ header li:first-child {
   line-height: 31.2px;
   font-weight: 400;
   margin-left: 150px;
+  margin-top: 55px;
 }
 .third_section .first_section_feature .hours_access div p {
   font-size: 16px;
@@ -207,6 +212,7 @@ header li:first-child {
   font-weight: 800;
   letter-spacing: 0.5%;
   float: left;
+  margin-top: 30px;
 }
 .third_section .first_section_feature .hours_access div p:last-child img {
   float: right;
@@ -220,7 +226,7 @@ header li:first-child {
 }
 .third_section .second_section_feature .print_out img {
   float: left;
-  margin-top: 100px;
+  margin-top: 120px;
   margin-right: -100px;
 }
 .third_section .second_section_feature .print_out div {
@@ -238,6 +244,7 @@ header li:first-child {
   line-height: 31.2px;
   font-weight: 400;
   margin-left: 150px;
+  margin-top: 55px;
 }
 .third_section .second_section_feature .print_out div p {
   font-size: 16px;
@@ -248,6 +255,7 @@ header li:first-child {
   font-weight: 800;
   letter-spacing: 0.5%;
   float: left;
+  margin-top: 50px;
 }
 .third_section .second_section_feature .print_out div p:last-child img {
   float: right;
@@ -261,7 +269,7 @@ header li:first-child {
 }
 .third_section .second_section_feature .security_code img {
   float: left;
-  margin-top: 50px;
+  margin-top: 80px;
   margin-right: -130px;
 }
 .third_section .second_section_feature .security_code div {
@@ -278,6 +286,7 @@ header li:first-child {
   line-height: 31.2px;
   font-weight: 400;
   margin-left: 150px;
+  margin-top: 55px;
 }
 .third_section .second_section_feature .security_code div p {
   font-size: 16px;
@@ -288,6 +297,7 @@ header li:first-child {
   font-weight: 800;
   letter-spacing: 0.5%;
   float: left;
+  margin-top: 10px;
 }
 .third_section .second_section_feature .security_code div p:last-child img {
   float: right;
@@ -307,7 +317,7 @@ header li:first-child {
   font-size: 40px;
   font-weight: bold;
   color: #FFFF;
-  padding-top: 150px;
+  padding-top: 120px;
   margin-left: 80px;
 }
 .fourth_section .john {
@@ -462,6 +472,7 @@ footer .first_part .sections .learn_more {
   margin-left: 410px;
   background-color: #F063B8;
   color: #FFFF;
+  box-shadow: 0px 0px;
 }
 footer .second_part {
   padding-top: 250px;
